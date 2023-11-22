@@ -1,0 +1,3 @@
+juan victor, 19, 2345, ciencias de la computacion
+juan, 19, 2345, ciencias de la computacion
+victor, 19, 2345, ciencias de la computacion
